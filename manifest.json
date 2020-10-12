@@ -1,0 +1,1 @@
+{"id":"org.okiptv","version":"1.0.1","name":"OK4 IPTV","description":"Latino/USA IPTV/VOD","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["ok4"],"icon":"https://raw.githubusercontent.com/mik25/ok4/master/logo.png","catalogs":[{"id":"ok4cat","name":"OK4 IPTV","type":"tv"}]}
